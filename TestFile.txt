@@ -11,3 +11,5 @@ Change 4 -
 >>>>>>> bug123
 
 Changes for git commit
+
+changes
